@@ -2,7 +2,7 @@
 
 *Connect. Chat. Smile.*  
 A **super simple & cozy** multi-user chat app built with 🐍 Python + 🧵 Threading + ⚡ Socket programming!  
-Make friends, share laughs, and spread joy — all in real-time! 🎉💖
+Make friends , share laughs, and spread joy — all in real-time! 🎉💖
 
 ---
 
